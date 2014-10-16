@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[brz:home|Door43 (brz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-brz|d43-brz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-brz/archive/master.zip|d43-brz.zip]]
+
+**Recent Changes**
+{{changes>ns = brz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/brz|Ethnologue data]]
+
